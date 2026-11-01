@@ -1,0 +1,1 @@
+Supabase Auth handles signup, login, logout and sessions. Browser auth is in `frontend/src/authentication/supabaseAuth.js`; server token verification is in `backend/middleware/authenticationMiddleware.js`.
