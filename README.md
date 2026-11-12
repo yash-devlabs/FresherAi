@@ -428,5 +428,7 @@ Computer Engineering | AI & Full-Stack Development
 ---
 
 <p align="center">
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  ⚖️ <a href="LICENSE"><strong>MIT License</strong></a>
+  <br />
+  Copyright © 2026 Yash Pradhan
 </p>
