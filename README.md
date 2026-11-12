@@ -425,3 +425,8 @@ Computer Engineering | AI & Full-Stack Development
   <br /><br />
   ⭐ If you find this project interesting, consider starring the repository!
 </p>
+---
+
+<p align="center">
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+</p>
